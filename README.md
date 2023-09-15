@@ -55,7 +55,12 @@ el control de las reservaciones hechas por sus clientes, por eso solicitan nuest
 [Video demostrativo del sistema](https://drive.google.com/file/d/1d06QICRHIExSYPxcQpTm1odj1fzgr04B/view?usp=sharing) 
 
 <h2>Tecnologias y Programas utilizados </h2>
-<li>JAVA 8 </li>
+<li>Lenguaje programación JAVA </li>
+<li>JAVA Swing</li>
+<li>JDK 20.1</li>
 <li>IntelliIDEA Community </li>
+<li>MySql </li>
+<li>Workbench </li>
+<li>Maven</li>
 
 
